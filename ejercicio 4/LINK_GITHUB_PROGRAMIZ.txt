@@ -1,0 +1,15 @@
+Adjunto Link de GitHub
+
+
+
+Adjunto Link de Programiz
+
+Para que todos los codigos ejecuten correctamente recomiendo usar los Zip o clonar el GitHub.
+
+https://programiz.pro/ide/python/60LODE2TFA
+
+P1 - Funciona
+P2_Test - No Funciona
+P2 - No Funciona
+P3 - Funciona
+P4 - No Funciona
